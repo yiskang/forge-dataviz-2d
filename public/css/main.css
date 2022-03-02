@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#forgeViewer {
+  width: 100%;
+}
+
+.adn-docking-panel {
+  top: 10px;
+  left: 10px;
+}
+
+.adn-sensor-list-panel {
+  max-width: 315px;
+  max-height: 280px;
+  width: 315px;
+  height: 280px;
+  left: 10px;
+  top: 225px;
+}
+
+.adn-sensor-list-panel .docking-panel-footer {
+  z-index: 1;
+}

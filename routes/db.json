@@ -1,0 +1,49 @@
+{
+  "devices": [
+    {
+      "serial": "50edd256bd",
+      "position": [
+        491.5112659639874,
+        445.19630393747616,
+        -0.8462999999999852
+      ],
+      "viewableId": "6d3acd40-53b7-41b4-9d96-72e9eaf4bc89-0005d699",
+      "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6ZXh0cmFjdC1hdXRvZGVzay1pby0yMDE3bGt3ZWo3eHBiZ3A2M3g0aGwzMzV5Nm0yNm9ha2dnb2YvcmFjX2Jhc2ljX3NhbXBsZV9wcm9qZWN0LnJ2dA",
+      "type": "temperature",
+      "sensorTypes": [
+        "temperature"
+      ],
+      "id": 1
+    },
+    {
+      "serial": "7d0c11a7c9",
+      "position": [
+        522.5502008050801,
+        434.2413852517143,
+        -0.8462999999999852
+      ],
+      "viewableId": "6d3acd40-53b7-41b4-9d96-72e9eaf4bc89-0005d699",
+      "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6ZXh0cmFjdC1hdXRvZGVzay1pby0yMDE3bGt3ZWo3eHBiZ3A2M3g0aGwzMzV5Nm0yNm9ha2dnb2YvcmFjX2Jhc2ljX3NhbXBsZV9wcm9qZWN0LnJ2dA",
+      "type": "temperature",
+      "sensorTypes": [
+        "temperature"
+      ],
+      "id": 2
+    },
+    {
+      "serial": "f82eeab88c",
+      "position": [
+        555.4149553427073,
+        459.8028621851587,
+        -0.8462999999999852
+      ],
+      "viewableId": "6d3acd40-53b7-41b4-9d96-72e9eaf4bc89-0005d699",
+      "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6ZXh0cmFjdC1hdXRvZGVzay1pby0yMDE3bGt3ZWo3eHBiZ3A2M3g0aGwzMzV5Nm0yNm9ha2dnb2YvcmFjX2Jhc2ljX3NhbXBsZV9wcm9qZWN0LnJ2dA",
+      "type": "temperature",
+      "sensorTypes": [
+        "temperature"
+      ],
+      "id": 3
+    }
+  ]
+}
